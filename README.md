@@ -9,6 +9,6 @@ I’m a software engineer and **Python expert** with 4+ years of professional ex
 
 ### What I’m focusing on right now
 - 🚀 Shipping AI-powered projects that solve real problems
-- 🧰 Strengthening MLOps + production AI skills (evaluation, monitoring, deployment)
+- 🧰 Strengthening MLOps + production AI skills (RAG, evaluation, monitoring, deployment)
 
 Thanks for stopping by!
