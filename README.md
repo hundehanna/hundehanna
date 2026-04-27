@@ -1,6 +1,6 @@
 ### Hi, I'm Hanna 👋
 
-AI Engineer based in Atlanta. Python, ~4 years in. Building with LLMs and speech models — and the infrastructure that makes them reliable in production.
+AI Engineer based in Atlanta. Python, ~4 years in. Building with LLMs and speech models and the infrastructure that makes them reliable in production.
 
 🧠 **Open to:** AI Engineer roles · Remote or Metro Atlanta  
 🐍 **Stack:** Python · FastAPI · Anthropic Claude · OpenAI · Whisper · ChromaDB · Docker  
