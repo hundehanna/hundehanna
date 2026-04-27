@@ -1,11 +1,12 @@
-## Hi, I’m Hanna👋
+### Hi, I'm Hanna 👋
 
-Python engineer, four years in. Now focused on AI engineering, building with LLMs the way I'd approach any production system.
-Most of what I'm shipping sits at the intersection of retrieval, evaluation, and the unglamorous infrastructure that keeps AI systems honest. Background in backend services and automation, which turns out to be exactly the right preparation for putting LLM apps into production.
+AI Engineer based in Atlanta. Python, ~4 years in. Building with LLMs and speech models — and the infrastructure that makes them reliable in production.
 
-🧠 Open to: AI Engineer roles — remote or metro Atlanta
-🐍 Daily driver: Python (APIs, data pipelines, LLM integrations)
-🔬 Currently into: RAG, eval frameworks, prompt versioning, observability for LLM apps
-📫 hanna.hunde@gmail.com
+🧠 **Open to:** AI Engineer roles · Remote or Metro Atlanta  
+🐍 **Stack:** Python · FastAPI · Anthropic Claude · OpenAI · Whisper · ChromaDB · Docker  
+🔬 **Currently building:** RAG systems, LLM evaluation tooling, Whisper fine-tuning for Amharic  
+📫 **Contact:** hanna.hunde@gmail.com
 
-Thanks for stopping by!
+*Pinned repos below — Thanks for stopping by!*
+
+
